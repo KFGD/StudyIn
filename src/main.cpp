@@ -1,5 +1,5 @@
 #include <iostream>
-#include "linkedList.h"
+#include "DataStructure/linkedList.h"
 
 using namespace std;
 
